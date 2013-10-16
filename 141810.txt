@@ -1,0 +1,12 @@
+montag
+***********
+- 2 mal das betriebssystem ubuntu installiert wegen fehler
+- auf github und bitbucket ein account erstellt
+- erstes github projekt erstellt und mich damit ein wenig vertraut gemacht
+
+mittwoch
+***********
+- mich noch weiterhin mit github und dem linux terminal vertraut gemacht
+- plone über den terminal installiert
+- mit plone gearbeitet und bisschen kennengelernt
+- auf github ein neues projekt erstellt
