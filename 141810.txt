@@ -14,4 +14,4 @@ mittwoch
 donnerstag
 ***********
 - scrumsitzung gehabt
-- angefangen mit plone eine webseite zu erstellen
+- angefangen mit plone eine webseite zu erstellen (http://localhost:8080/vickyvonminckwitz)
