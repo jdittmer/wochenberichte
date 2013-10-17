@@ -10,3 +10,8 @@ mittwoch
 - plone über den terminal installiert
 - mit plone gearbeitet und bisschen kennengelernt
 - auf github ein neues projekt erstellt
+
+donnerstag
+***********
+- scrumsitzung gehabt
+- angefangen mit plone eine webseite zu erstellen
