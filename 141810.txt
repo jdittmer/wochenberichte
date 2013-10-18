@@ -17,3 +17,8 @@ donnerstag
 - angefangen mit plone eine webseite zu erstellen (http://localhost:8080/vickyvonminckwitz)
 - struktur und seiten hinzugefügt
 - versucht ein html video problem zu beheben
+
+freitag
+***********
+- scrumsitzung gehabt
+- html video problem mit webm gelöst
