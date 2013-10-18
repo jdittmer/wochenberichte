@@ -22,3 +22,4 @@ freitag
 ***********
 - scrumsitzung gehabt
 - html video problem mit webm gelöst
+- diazo documention durchgelesen
