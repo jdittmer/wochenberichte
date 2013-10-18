@@ -23,3 +23,4 @@ freitag
 - scrumsitzung gehabt
 - html video problem mit webm gelöst
 - diazo documention durchgelesen
+- erstmals mit angefangen die seite von plone in html von vicky von minckwitz zu schreiben (aber nur ein kleines bisschen)
