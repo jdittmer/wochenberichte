@@ -10,3 +10,8 @@ dienstag
 mittwoch
 ***********
 - an der vicky von minckwitz seite weiter gearbeitet
+
+donnerstag
+***********
+- an der vicky seite weiter gearbeitet
+- problem mit den divs und den bildern gelöst
