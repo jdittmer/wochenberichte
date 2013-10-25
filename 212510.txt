@@ -15,3 +15,7 @@ donnerstag
 ***********
 - an der vicky seite weiter gearbeitet
 - problem mit den divs und den bildern gelöst
+
+freitag
+***********
+- bilder an die richtige größe angepasst
