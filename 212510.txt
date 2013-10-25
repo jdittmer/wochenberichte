@@ -1,21 +1,22 @@
-montag
+Montag
 ***********
-- an der vicky von minckwitz seite weiter gemacht
+- An der Vicky von Minckwitz Seite weiter gemacht
 
-dienstag
+Dienstag
 ***********
-- textdokument formatiert
-- kleine präsentation vorgetragen
+- Textdokument formatiert
+- kleine Präsentation vorgetragen
 
-mittwoch
+Mittwoch
 ***********
-- an der vicky von minckwitz seite weiter gearbeitet
+- An der Vicky von Minckwitz Seite weiter gearbeitet
 
-donnerstag
+Donnerstag
 ***********
-- an der vicky seite weiter gearbeitet
-- problem mit den divs und den bildern gelöst
+- An der Vicky Seite weiter gearbeitet
+- Problem mit den divs und den Bildern der Schriftmalerei gelöst
 
-freitag
+Freitag
 ***********
-- bilder an die richtige größe angepasst
+- Bildgrößen der Schriftmalerei richtig angepasst
+- Beschreibung zu jedem Bilder der Schriftmalerei hinzugefügt und angepasst
