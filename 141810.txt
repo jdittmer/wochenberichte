@@ -1,26 +1,26 @@
-montag
+Montag
 ***********
-- 2 mal das betriebssystem ubuntu installiert wegen fehler
-- auf github und bitbucket ein account erstellt
-- erstes github projekt erstellt und mich damit ein wenig vertraut gemacht
+- 2 mal das Betriebssystem Ubuntu Installiert wegen Fehler
+- auf GitHub und BitBucket ein Account erstellt
+- erstes GitHub Projekt erstellt und mich damit ein wenig vertraut gemacht
 
-mittwoch
+Mittwoch
 ***********
-- mich noch weiterhin mit github und dem linux terminal vertraut gemacht
-- plone über den terminal installiert
-- mit plone gearbeitet und bisschen kennengelernt
-- auf github ein neues projekt erstellt
+- mich noch weiterhin mit GitHub und dem Linux Terminal vertraut gemacht
+- Plone über den Terminal installiert
+- mit Plone gearbeitet und bisschen kennengelernt
+- auf GitHub ein neues Projekt erstellt
 
-donnerstag
+Donnerstag
 ***********
-- scrumsitzung gehabt
-- angefangen mit plone eine webseite zu erstellen (http://localhost:8080/vickyvonminckwitz)
-- struktur und seiten hinzugefügt
-- versucht ein html video problem zu beheben
+- Scrumsitzung gehabt
+- Angefangen mit Plone eine Webseite zu erstellen (http://localhost:8080/vickyvonminckwitz)
+- Struktur und Seiten hinzugefügt
+- versucht ein HTML Video Problem zu beheben
 
-freitag
+Freitag
 ***********
-- scrumsitzung gehabt
-- html video problem mit webm gelöst
-- diazo documention durchgelesen
-- erstmals mit angefangen die seite von plone in html von vicky von minckwitz zu schreiben (aber nur ein kleines bisschen)
+- Scrumsitzung gehabt
+- HTML Video Problem mit .webm gelöst
+- Diazo Documention durchgelesen
+- Erstmals mit angefangen die Seite von Plone in HTML von Vicky von Minckwitz zu schreiben (aber nur ein kleines bisschen)
