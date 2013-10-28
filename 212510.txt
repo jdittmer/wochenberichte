@@ -20,3 +20,5 @@ Freitag
 ***********
 - Bildgrößen der Schriftmalerei richtig angepasst
 - Beschreibung zu jedem Bilder der Schriftmalerei hinzugefügt und angepasst
+- Vicky Design zu einem richtigen Design gemacht
+- Alle Vicky Daten auf BitBucket hochgeladen
